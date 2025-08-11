@@ -2,8 +2,8 @@
 
 This repository contains the codes and files for the assignment **Automated Track Infrastructure Recognition Using Vibration Analysis**.  
 It includes:
-- Code 1: Loading and visualizing infrastructure data.
-- Code 2: Loading GPS/Vibration data and interactive map.
+- step 1: Loading and visualizing infrastructure data.
+- step 2: Loading GPS/Vibration data and interactive map.
 - Filtered event CSV files.
 - Labeled segments and extracted features.
 - Final report (PDF).
